@@ -115,7 +115,25 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)
 
 ## Output:
 ### Profit prediction Graph:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/5a5582f5-79f7-477b-848e-d36913aaa51f)
 
+### Compute cost value:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/d265168c-a335-42db-b6e8-422e62578808)
+
+### h(x) value:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/d2686b7a-5b72-4784-9d06-bca95042634b)
+
+### Cost function using Gradient Descent Graph:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/11ea4c85-688b-4e20-8d89-1388848b3d27)
+
+### Profit Prediction Graph:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/fa2c2071-10e6-43e9-94f7-f70d166c60a1)
+
+### Profit Prediction for a population of 35000:
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/fe179925-da4b-4a04-8542-611dc68fdfc6)
+
+### Profit Prediction for a population of 70000 :
+![image](https://github.com/LakshmanAdhireddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118707265/90113353-f652-4c3a-902e-a79ac3ec90ce)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
